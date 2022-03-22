@@ -1,3 +1,2 @@
-Hello! My name is Michael.
-Currently, I'm working as a lead ABAP developer, but also I'm self-taught game developer. 
-Mainly, I have experience working with Unity C#, and here you can see my projects.
+Hello! My name is Michael and I'm self-educated Unity C# developer.
+Besides, I have experience working with ABAP and PL/SQL. I'm enjoy writing qualitative code and solving programming dilemmas.
